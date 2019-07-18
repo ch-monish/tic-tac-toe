@@ -1,0 +1,14 @@
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.FORM1.resources
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.FORM2.resources
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\sailaja\Desktop\vb.net\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form3.resources
